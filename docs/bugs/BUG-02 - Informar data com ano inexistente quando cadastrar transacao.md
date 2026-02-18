@@ -25,10 +25,6 @@ Podemos cadastrar despesa com data incorreta.
 
 ---
 
-## ✅ Comportamento Esperado
-
-O sistema deve bloquear a operação e exibir mensagem de erro informando que menores de idade não podem cadastrar receitas.
-
 ---
 
 ## ❌ Comportamento Atual
@@ -41,12 +37,6 @@ O sistema permite o cadastrar despesa com data errada.
 
 Teste automatizado relacionado:
 
-`frontend-tests/e2e/menor-idade.spec.ts`
-
 ## ![alt text](image-1.png)
 
 ![alt text](image-2.png)
-
-## 💡 Possível Causa
-
-Ausência de validação no backend ou validação apenas na camada de interface.
