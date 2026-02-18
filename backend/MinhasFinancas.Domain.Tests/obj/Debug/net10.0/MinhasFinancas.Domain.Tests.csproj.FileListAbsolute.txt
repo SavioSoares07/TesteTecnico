@@ -1,0 +1,7 @@
+C:\Users\Savio\Documents\QA\ExameDesenvolvedorDeTestes\minhasFincancasTests\backend\MinhasFinancas.Domain.Tests\bin\Debug\net10.0\.msCoverageSourceRootsMapping_MinhasFinancas.Domain.Tests
+C:\Users\Savio\Documents\QA\ExameDesenvolvedorDeTestes\minhasFincancasTests\backend\MinhasFinancas.Domain.Tests\bin\Debug\net10.0\CoverletSourceRootsMapping_MinhasFinancas.Domain.Tests
+C:\Users\Savio\Documents\QA\ExameDesenvolvedorDeTestes\minhasFincancasTests\backend\MinhasFinancas.Domain.Tests\obj\Debug\net10.0\MinhasFinancas.Domain.Tests.csproj.AssemblyReference.cache
+C:\Users\Savio\Documents\QA\ExameDesenvolvedorDeTestes\minhasFincancasTests\backend\MinhasFinancas.Domain.Tests\obj\Debug\net10.0\MinhasFinancas.Domain.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Savio\Documents\QA\ExameDesenvolvedorDeTestes\minhasFincancasTests\backend\MinhasFinancas.Domain.Tests\obj\Debug\net10.0\MinhasFinancas.Domain.Tests.AssemblyInfoInputs.cache
+C:\Users\Savio\Documents\QA\ExameDesenvolvedorDeTestes\minhasFincancasTests\backend\MinhasFinancas.Domain.Tests\obj\Debug\net10.0\MinhasFinancas.Domain.Tests.AssemblyInfo.cs
+C:\Users\Savio\Documents\QA\ExameDesenvolvedorDeTestes\minhasFincancasTests\backend\MinhasFinancas.Domain.Tests\obj\Debug\net10.0\MinhasFinancas.Domain.Tests.csproj.CoreCompileInputs.cache
